@@ -1,0 +1,18 @@
+## After each pair of plots, explain what the linear regression is modeling. 
+For example, describe any relationships that you notice and any other findings you may have.
+
+1. Temperature North and South - 
+	### These 2 linear regression plots are modeling how temperature differs between the northern and southern hemisphers. 
+	The northern hemisphere is negative trend while the southern hemisphere is showing a positive correlation. These graphs makes 
+	sense because as you go from the equater (0) to the top of the earth (80), the temperature will drop. When you leave the south 
+	pole (-50) and go towards the equater (0), the temperature will increase. 
+2. Humidity North and South -
+	### These two graphs show that humidity in the northern hemisphere and southern hemisphere are similar with north having -0.07 and south 
+	having 0.01 as coefficents. This could be due to the fact that both hemisphere graphs contain the eqauter.
+3.Cloudiness North and South -
+	### Both of these graphs have data points all over the graph. Therefore, none of these graphs have a clear overall trend. 
+	This could be due to the fact that everywhere in the world has cloudy days regradless of the latitude. 
+4. Wind Speed North and South -
+	### The wind speed in both of these graphs show that there is no overall trend. 
+	This could be due to the fact that regardless of the latitude wind is presnt in all parts if the world.
+	
